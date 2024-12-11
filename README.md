@@ -35,8 +35,6 @@
 </div>
 <div align="center">
     
-<h3 align="center">✨ 기술이력서 링크 ✨</h3>
-https://level-louse-4ae.notion.site/12a98b1afa9b80bca40ad5aa4c290d90
-</div>
+
 
 
